@@ -3,5 +3,5 @@ import config from './aws-exports'
 
 Amplify.configure({
   ...config,
-  ssr: ture,
+  ssr: true,
 })
