@@ -1,5 +1,0 @@
-myNextApplication:
-  component: "@sls-next/serverless-component@3.1.0"
-  inputs:
-    nextConfigDir: "../../"
-    domain: ["www", "ybsdevelopers.com"]
